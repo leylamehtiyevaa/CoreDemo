@@ -4,13 +4,30 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.CoreDemo PreferredExecutionTarget="/Applications/Google Chrome.app" FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.CoreDemo PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BusinessLayer/Concrete/CategoryManager.cs">
+    <Files>
+      <File FileName="BusinessLayer/Abstract/ICategoryService.cs" Line="13" Column="34" />
+      <File FileName="BusinessLayer/Concrete/CategoryManeger.cs" Line="25" Column="31" />
+    </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CoreDemo" expanded="True" selected="True">
-            <Node name="CoreDemo" expanded="True" />
+          <Node name="CoreDemo" expanded="True">
+            <Node name="BusinessLayer" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="Concrete" expanded="True">
+                <Node name="CategoryManager.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="DataAccessLayer" expanded="True">
+              <Node name="Abstract" expanded="True" />
+              <Node name="EntityFramework" expanded="True" />
+              <Node name="Repositories" expanded="True" />
+            </Node>
+            <Node name="EntityLayer" expanded="True">
+              <Node name="Concrete" expanded="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
